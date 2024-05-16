@@ -181,4 +181,3 @@ class TestState_to_dict(unittest.TestCase):
             st.to_dict(None)
 if __name__ == "__main__":
     unittest.main()
-

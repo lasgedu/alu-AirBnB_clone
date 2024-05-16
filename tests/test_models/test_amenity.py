@@ -182,4 +182,3 @@ class TestAmenity_to_dict(unittest.TestCase):
             am.to_dict(None)
 if __name__ == "__main__":
     unittest.main()
-    
