@@ -1,4 +1,4 @@
-![65f4a1dd9c51265f49d0](https://github.com/lasgedu/alu-AirBnB_clone.git)
+(https://github.com/lasgedu/alu-AirBnB_clone.git)
 
 ## ALU-AirBnB_Clone
 
