@@ -1,3 +1,4 @@
+![65f4a1dd9c51265f49d0](https://github.com/lasgedu/alu-AirBnB_clone.git)
 
 ## ALU-AirBnB_Clone
 
@@ -20,7 +21,7 @@ User Management:
 - Establish new users to simulate the Airbnb user experience.
 - Retrieve and present user profiles and details.
 - Update existing user information to maintain accurate records.
-- Remove users from the system
+- Remove users from the system.
 
 Educational Purpose
 
@@ -31,3 +32,4 @@ Support
 For any inquiries, issues, or feedback concerning this console application, please don't hesitate to contact us at c.unekwe@alustudent.com.
 
 Enjoy exploring virtual hospitality management with the Airbnb Clone Console!
+
